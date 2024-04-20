@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022795748570",
+    "project_id": "test-c907f",
+    "storage_bucket": "test-c907f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022795748570:android:f37c7be3fe2ccebd4541e3",
+        "android_client_info": {
+          "package_name": "com.aigcnkcs.supernote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV4dXK47mASrCr_eq0OwS6tTJgz8x6s0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022795748570:android:f29709db4b6781004541e3",
+        "android_client_info": {
+          "package_name": "com.yangdai.opennote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV4dXK47mASrCr_eq0OwS6tTJgz8x6s0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
